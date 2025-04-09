@@ -6,6 +6,6 @@ https://shashwat-balodhi.github.io/AIPR_Frontend/
 backend server is offline right now...
 
 
-[do tell before testing as only limited usage is available for each api]   we have to save it for the review
+[do inform before testing as only limited usage is available for each api]   we have to save it for the review
 
 thank you
